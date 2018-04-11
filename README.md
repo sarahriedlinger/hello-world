@@ -11,7 +11,12 @@ Watch SeaLight in action, as a user navigates through the process of interacting
 * 3D models created in Unity, minor C# markup
 * Dynamically generated content through variable arrays in Swift
 * Data passing through UITabBarController
+* Uses AVPlayer for multimedia
 
 ## Important Notes
+* 4.11.18 - UITableView generated for interior content
 
 ## Credits
+* Swift+Gif for animation support
+* NOAA photo archive
+* National Geographic photography
