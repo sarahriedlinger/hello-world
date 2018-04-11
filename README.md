@@ -7,7 +7,7 @@ SeaLight is an edutainment app created to teach middle-school students about bio
 
 ## Video
 Watch SeaLight in action, as a user navigates through the process of interacting with AR to unlock educational content.
-<p align="center"><iframe src="https://player.vimeo.com/video/258023423" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://vimeo.com/258023423)
 
 ## Features
 * Augmented Reality (requires A9 processing chip, iPhone 6 and up)
